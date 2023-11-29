@@ -6,3 +6,4 @@ The Excel sheets "Automotive_SecurityAttack_Classification.ods" and "Automotive_
 
 Automotive_Attack_Database_(AAD)_V2.0.db is an update of these two data sets in an SQLite table. The table contains 361 security attacks (621 attack steps) from public sources. 
 
+Automotive_Attack_Database_(AAD)_V3.0.db is the current version. Minor erros and inconsistencies were fixed.
